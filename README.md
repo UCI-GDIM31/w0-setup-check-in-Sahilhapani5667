@@ -7,16 +7,17 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
-2. Which of the following best describes your major? Please specify if not GDIM.  
+Ans- Hi, my name is Sahil Hapani and my pronouns are he/him. Gaming has been a part of my life for a long time, whether its PlayStation or Computer based games, they have been an integral part of my life. I really enjoy fighting based games such as Valorant and Counterstrike. My interest in games and specifically coding made my choose this class.
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
+2. Which of the following best describes your major? Please specify if not GDIM. 
 
-3. What are you hoping to get out of this class?
+Ans- I am a computer engineering major, but I plan to switch to CS in the future. 
+
+ 3. What are you hoping to get out of this class?
+Ans- Even though I am not a GDIM Major, I would love to get insight on how to code games and basically what goes around in building a competitive game. This class would also help me choose my job in the near future, if I go into game software coding or designing.
+ 
 4. What, if anything, are you nervous about for this class?
+Ans- The only thing I am nervous about for this class is the avid knowledge of games and how to code games which I do not have.
 
 ## Prior Experience
 
@@ -25,10 +26,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+   8/10 (Java and Python)
 
 2. Game development (any engine)
+   2/10
 
 3. Unity
+   0/10
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +44,21 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+   N/A
 
 2. Scope management
+   N/A
 
 3. Iteration
+   Iteration is basically a repetition of a certain code or a loop
+   example: for(int i=0;i<=5;i++)
+            This code will basically run for 5 times given the code inside the for loop.
 
 4. Object-Oriented programming
+   In an OOP, the programs are made up of objects and data units such as Java and Python.
 
 5. Model-View-Controller architecture
+   N/A
 
 ## Complete!
 
